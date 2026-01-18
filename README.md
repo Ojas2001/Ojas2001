@@ -48,7 +48,7 @@ Explore more in the **Repositories** section! :contentReference[oaicite:1]{index
 
 ## 📫 Connect with Me
 - **LinkedIn:** https://www.linkedin.com/in/ojas-deodhar-131b39197/  
-- **Email:** ojas.deodhar@example.com  
+- **Email:** odeodhar@asu.edu 
 (replace with your preferred contact)
 
 ---
