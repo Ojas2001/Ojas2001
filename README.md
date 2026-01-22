@@ -31,25 +31,13 @@ I am a Machine Learning and Data professional with hands-on experience building 
 ---
 
 ## 🚀 Featured Projects
-Check out my pinned repositories — highlights include:
-
-### 🧠 Machine Learning
-- **Car-Price-Prediction** – Regression modeling in Python  
-- **Shark-Tank-India-Neural-Networks-Project** – Neural network classification notebook  
-- **datasciencecoursera** – Datasets and analysis exercises
-
-### 🤖 AI & Tools
-- **githubworkshopviit** – Workshop repo  
-- **My-Astronomy-Guide** – Interactive HTML/JS project
-
-Explore more in the **Repositories** section! :contentReference[oaicite:1]{index=1}
+Check out my repositories!!
 
 ---
 
 ## 📫 Connect with Me
 - **LinkedIn:** https://www.linkedin.com/in/ojas-deodhar-131b39197/  
 - **Email:** odeodhar@asu.edu 
-(replace with your preferred contact)
 
 ---
 
