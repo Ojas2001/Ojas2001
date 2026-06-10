@@ -96,7 +96,7 @@ Currently at **ASU's Decision Theater**, I develop LLM-powered natural-language 
 
 ---
 
-### 📷 [AI_Blur_Studio — Real-time Background Effects] (https://huggingface.co/spaces/odeodhar/AI_Blur_Studio) &nbsp;[![HuggingFace Demo](https://img.shields.io/badge/🤗%20Live%20Demo-FFD21E?style=flat-square)](https://huggingface.co/spaces/odeodhar/AI_Blur_Studio)
+### 📷 [AI_Blur_Studio — Real-time Background Effects](https://huggingface.co/spaces/odeodhar/AI_Blur_Studio) &nbsp;[![HuggingFace Demo](https://img.shields.io/badge/🤗%20Live%20Demo-FFD21E?style=flat-square)](https://huggingface.co/spaces/odeodhar/AI_Blur_Studio)
 > Gradio app deployed on Hugging Face Spaces — combines **human segmentation**, Zoom-style background removal, and a realistic camera depth-of-field effect using a monocular depth estimation model.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
