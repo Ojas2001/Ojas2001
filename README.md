@@ -143,8 +143,8 @@ Ojas Deodhar, S. Bhatkar, P. Dixit, P. Kulkarni, A. Oak, S. Londhe
 | | |
 |---|---|
 | 💼 LinkedIn | [linkedin.com/in/ojas-deodhar-131b39197](https://www.linkedin.com/in/ojas-deodhar-131b39197/) |
-| 📧 Email | deodharojas5@gmail.com |
-| 🤗 HuggingFace | [huggingface.co/spaces/Ojas2001](https://huggingface.co/spaces/Ojas2001/GaussianBlur) |
+| 📧 Email | deodharojas5@gmail.com | odeodhar@asu.edu |
+| 🤗 HuggingFace | [https://huggingface.co/odeodhar/spaces](https://huggingface.co/odeodhar/spaces) |
 | 📄 IEEE Publication | [DOI: 10.1109/I2CT61223.2024.10543650](https://doi.org/10.1109/I2CT61223.2024.10543650) |
 
 ---
