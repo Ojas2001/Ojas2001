@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://huggingface.co/spaces/Ojas2001/GaussianBlur">
+  <a href="https://huggingface.co/odeodhar/spaces">
     <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
   </a>
   &nbsp;
